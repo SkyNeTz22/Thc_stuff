@@ -2,7 +2,7 @@
 Dispute over rules
 
 
-After reflecting over last nights events during a base raid that occured, I feel I need to write this ticket for the staff of GZ to read
+After reflecting over last nights events during a base raid that occured, I feel I need to write this ticket for the staff of GZ to read.
 ------------------------------------------
 
 From the GroundZero rulebook:
@@ -15,7 +15,7 @@ The raiders uncovered the car, shot it and hit it during the entire time they we
 
 "3.4 Glitch raiding is NOT ALLOWED. Glitching is anything that may involve you needing to log in or out to access a part of a base, being â€œpushedâ€ into a base, getting knocked unconscious to get inside, etc."
 
-During this raid we put up two fireplaces, partly over an access hatch, along with some planter boxes and a water barrel to block the raiders view of the room. These items were still placed in a way that players could quite easily vault up in one direction, or dismantle one of the fireplaces to gain access to that floor. When the raiders DID, however, gain access, they simply â€œappearedâ€ in the room, without any vault animation at all.
+During this raid we put up two fireplaces, partly over an access hatch, along with some planter boxes and a water barrel to block the raiders view of the room. These items were still placed in a way that players could quite easily vault up in one direction, or dismantle one of the fireplaces to gain access to that floor. When the raiders DID, however, gain access, they simply appeared the room, without any vault animation at all.
 Here is a video showing how it looked when the raider gained access, did he glitch in or not? *Insert video*
 ---
 
@@ -33,8 +33,8 @@ I would think, and hope, for some consistency in the ruling and the same penalty
 
 Personal note:
 
-I'm not writing this because I want compensation or more players banned even if it might sound that way. I would simply like to see the published server rules to be enforced in the right manner, and with a level of consistency â€“ not deliberated upon and enforced on a whim.
-With that said, I don't know what goes into the admin work, 300 tickets a day on 3 different servers.. I understand that consistency might not always be the name of the game
+I'm not writing this because I want compensation or more players banned even if it might sound that way. I would simply like to see the published server rules to be enforced in the right manner, and with a level of consistency not deliberated upon and enforced on a whim.
+With that said, I don't know what goes into the admin work, 300 tickets a day on 3 different servers.. I understand that consistency might not always be the name of the game.
 
 
 Best regards//
